@@ -1,0 +1,76 @@
+{
+    "providers":[
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": 10,
+            "height": 1,
+            "chars": [
+                "\u0E0F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/owner.png",
+            "ascent": 10,
+            "height": 1,
+            "chars": [
+                "\u0E18"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/moderator.png",
+            "ascent": 10,
+            "height": 1,
+            "chars": [
+                "\u0E19"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/sponsor.png",
+            "ascent": 10,
+            "height": 1,
+            "chars": [
+                "\u0E1A"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/youtube.png",
+            "ascent": 10,
+            "height": 1,
+            "chars": [
+                "\u0E1B"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/twitch.png",
+            "ascent": 10,
+            "height": 1,
+            "chars": [
+                "\u0E1C"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/vip.png",
+            "ascent": 10,
+            "height": 1,
+            "chars": [
+                "\u0E1E"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/player.png",
+            "ascent": 10,
+            "height": 1,
+            "chars": [
+                "\u0E2F"
+            ]
+        }
+    ]
+}
